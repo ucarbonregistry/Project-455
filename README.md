@@ -68,3 +68,47 @@ as a part of first monitoring and verification.
 Since the project activity generates electricity through waste heat recovery system, a clean
 renewable energy source it will not cause any negative impact on the environment and thereby
 contributes to climate change mitigation efforts
+______
+ISSUANCE DATE: 16/09/2025
+
+MP-01: 01/07/2019-31/12/2024
+
+QTY: 242867
+______________
+Serial Number: 0001-000001-013087-UCR-CoU-IN-455-01072019-31122019
+
+Vintage Year: 2019
+
+Quantity: 13087
+_________
+Serial Number: 0001-013088-046856-UCR-CoU-IN-455-01012020-31122020
+
+Vintage Year: 2020
+
+Quantity: 33769
+_______
+Serial Number: 0001-046857-090573-UCR-CoU-IN-455-01012021-31122021
+
+Vintage Year: 2021
+
+Quantity: 43717
+___________
+Serial Number: 0001-090574-143500-UCR-CoU-IN-455-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 52927
+_________
+Serial Number: 0001-143501-194594-UCR-CoU-IN-455-01012023-31122023
+
+Vintage Year: 2023
+
+Quantity: 51094
+___________
+Serial Number: 0001-194595-242867-UCR-CoU-IN-455-01012024-31122024
+
+Vintage Year: 2024
+
+Quantity: 48273
+_________
+
